@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">exam20200603</string>
+    <string name="bottom_nav_title_1">Contributor</string>
+    <string name="bottom_nav_text2">My Account</string>
 </resources>
