@@ -1,2 +1,4 @@
+include ':model'
+include ':api'
 include ':app'
 rootProject.name = "exam20200603"
