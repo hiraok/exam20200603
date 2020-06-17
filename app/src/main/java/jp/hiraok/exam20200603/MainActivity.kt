@@ -8,7 +8,6 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import dagger.android.AndroidInjection
 import jp.hiraok.exam20200603.databinding.ActivityMainBinding
 import jp.hiraok.exam20200603.ui.ContributorDetailFragment
